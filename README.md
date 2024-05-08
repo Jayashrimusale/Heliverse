@@ -1,5 +1,7 @@
 Predicting Employee Attrition
 
+Video Presentation - https://drive.google.com/file/d/1RxasVGvGepKjFa2nSCwg_1_v3sgB73Cb/view?usp=sharing
+
 Overview:
 This project aims to predict employee attrition using machine learning techniques. 
 
@@ -21,3 +23,4 @@ Usage:
 5.Load Dataset into Notebook
 
 6.Verify Dataset
+
