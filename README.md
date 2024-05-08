@@ -11,8 +11,13 @@ This project utilizes Python programming language along with popular machine lea
 
 Usage:
 1.Open Google Colab
+
 2.Create a New Notebook or Open an Existing One
+
 3.Mount Google Drive
+
 4.Or Upload Dataset from Local System
+
 5.Load Dataset into Notebook
+
 6.Verify Dataset
